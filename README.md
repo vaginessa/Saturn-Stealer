@@ -60,7 +60,11 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 📸 - Screenshot: Takes a screenshot of the target's screen
 
 🪐 - Browser History Stealer: Steals history search of multiple browsers (Chrome, Opera/GX, Firefox, Edge, Safari, Internet Explorer, Brave)
+
+🪐 - Much MORE!
+
 ```
+
 
 
 
@@ -70,6 +74,8 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 ![Capture](https://github.com/Yanzaliya/Mercury-Stealer/assets/158839905/cbd67dbf-db3c-4a09-b69a-e4698d92b40f)
 
+
+• Update Every Week
 
 
 
