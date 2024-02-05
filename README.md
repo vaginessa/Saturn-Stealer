@@ -8,9 +8,20 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 - [✨・Features](#features)   
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## <a id="features"></a>✨・Features
 ```
-🎮 - Steal Steam Credentials, Riot games, Minecraft session.
+🎮 - Steal Steam Credentials, Riot games, Minecraft session, Epic games, uplay, Growtopia
 
 🔒 - Bypass Better Discord and Discord Token Protector
 
@@ -19,6 +30,10 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 🤖 - Website Cookie Information (Spotify, Roblox, Tiktok, Guilded, Patreon, Twitch, Instagram, Twitter)
 
 🖥️ - System Information Stealer: Steal graphic card name (and other data), cpu name (and other data)
+
+📸 - Steal Webcam Screenshot
+
+🔒 - Steal Wifi Password
 
 🍪 - Cookie Stealer
 
@@ -51,7 +66,11 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 
 
+
+
 ![Capture](https://github.com/Yanzaliya/Mercury-Stealer/assets/158839905/cbd67dbf-db3c-4a09-b69a-e4698d92b40f)
+
+
 
 
 
